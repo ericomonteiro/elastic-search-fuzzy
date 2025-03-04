@@ -25,6 +25,10 @@ This repository contains an example project demonstrating how to use Elasticsear
 ## Usage
 
 1. Start Elasticsearch on your local machine or ensure you have access to an Elasticsearch instance.
+    - To use docker-compose to start Elasticsearch, run the following command:
+        ```sh
+        docker-compose up -d
+        ```
 
 2. Run the application:
 
